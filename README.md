@@ -5,6 +5,7 @@ Additional resources:
 
 |Name|Link|
 |---|--|
+|Magnus Ahlkvist| https://github.com/transmokopter/Presentations/tree/main/test-driven-database-development  |
 |Mikey Bronowski| https://github.com/MikeyBronowski/Presentations/tree/main/2022/DataGrillen  |
 |Alpa Buddhabhatti|  https://github.com/alpaBuddhabhatti/DG2022-ADF  |
 |Daniel Hutmacher|  https://github.com/sqlsunday/presentation-partitioning  |
